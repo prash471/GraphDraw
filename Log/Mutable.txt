@@ -1,0 +1,67 @@
+MUTABLE LOG
+warming up
+estimating clock resolution...
+mean is 2.374420 us (320001 iterations)
+found 74178 outliers among 319999 samples (23.2%)
+  582 (0.2%) low severe
+  73596 (23.0%) high severe
+estimating cost of a clock call...
+mean is 141.4949 ns (21 iterations)
+found 3 outliers among 21 samples (14.3%)
+  3 (14.3%) high mild
+
+Iterations = 100
+mean: 8.601653 ms, lb 8.398830 ms, ub 9.031817 ms, ci 0.950
+std dev: 1.440464 ms, lb 736.1868 us, ub 2.563066 ms, ci 0.950
+found 5 outliers among 100 samples (5.0%)
+  2 (2.0%) high mild
+  3 (3.0%) high severe
+variance introduced by outliers: 91.528%
+variance is severely inflated by outliers
+
+Iterations = 1000
+collecting 100 samples, 1 iterations each, in estimated 8.210397 s
+mean: 9.558176 ms, lb 8.754865 ms, ub 12.62040 ms, ci 0.950
+std dev: 6.988252 ms, lb 1.805751 ms, ub 16.06249 ms, ci 0.950
+found 8 outliers among 100 samples (8.0%)
+  7 (7.0%) high severe
+variance introduced by outliers: 98.971%
+variance is severely inflated by outliers
+
+Iterations = 5000
+collecting 100 samples, 1 iterations each, in estimated 37.92989 s
+mean: 13.99990 ms, lb 9.160995 ms, ub 37.13492 ms, ci 0.950
+std dev: 46.92395 ms, lb 2.102969 ms, ub 111.8336 ms, ci 0.950
+found 15 outliers among 100 samples (15.0%)
+  8 (8.0%) high mild
+  7 (7.0%) high severe
+variance introduced by outliers: 98.999%
+variance is severely inflated by outliers
+
+Iterations = 10000
+collecting 100 samples, 1 iterations each, in estimated 74.64440 s
+mean: 9.230592 ms, lb 8.646845 ms, ub 11.15229 ms, ci 0.950
+std dev: 4.901219 ms, lb 1.706073 ms, ub 10.93163 ms, ci 0.950
+found 11 outliers among 100 samples (11.0%)
+  2 (2.0%) high mild
+  9 (9.0%) high severe
+variance introduced by outliers: 98.946%
+variance is severely inflated by outliers
+
+Iterations = 15000
+collecting 100 samples, 1 iterations each, in estimated 111.8313 s
+mean: 8.656188 ms, lb 8.385021 ms, ub 9.192110 ms, ci 0.950
+std dev: 1.878123 ms, lb 1.110539 ms, ub 2.983627 ms, ci 0.950
+found 5 outliers among 100 samples (5.0%)
+  4 (4.0%) high severe
+variance introduced by outliers: 94.700%
+variance is severely inflated by outliers
+
+Iterations = 20000
+collecting 100 samples, 1 iterations each, in estimated 148.8910 s
+mean: 8.682703 ms, lb 8.455788 ms, ub 9.145523 ms, ci 0.950
+std dev: 1.590229 ms, lb 918.2619 us, ub 2.643402 ms, ci 0.950
+found 4 outliers among 100 samples (4.0%)
+  3 (3.0%) high severe
+variance introduced by outliers: 93.588%
+variance is severely inflated by outliers
